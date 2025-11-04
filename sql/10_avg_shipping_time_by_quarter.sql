@@ -1,5 +1,5 @@
 /*
-------------------------------------------------------------
+-----------------------------------------------------------
 Project: New Wheels Sales Analysis
 Question 10: Calculate the average time taken to ship orders for each quarter.
 ------------------------------------------------------------
