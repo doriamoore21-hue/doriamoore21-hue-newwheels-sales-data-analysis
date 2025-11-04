@@ -28,14 +28,17 @@ What percentage of customer feedback is considered “Good”?
 
 ⚙️ Project Structure
 ├── sql/
+
 │   ├── top_vehicle_makers.sql           # Query identifying top 5 vehicle makers by unique customers
 │   ├── revenue_metrics.sql              # Total revenue, orders, and customers
 │   ├── customer_feedback.sql            # Calculates percentage of positive feedback
 │   ├── quarterly_performance.sql        # Quarterly revenue and order summary
 │
+
 ├── visuals/
 │   └── (optional: screenshots of results)
 │
+
 └── README.md                            # Project documentation
 
 📈 Key Insights
